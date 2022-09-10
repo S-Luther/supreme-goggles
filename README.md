@@ -49,6 +49,8 @@ You must use at least one array of 2 or more dimensions.
 
 This program must include command line args to allow testing with predetermined inputs. You must also build a mode for when args are being used so that it will only output the final state of the rubics cube in the given format and terminate for testing reasons.
 
+Please push final version to master.
+
 ### Extra Credit
 You will get extra credit if you have your program return a shorter list of commands to solve the rubics cube than what is the commands already entered but in reverse.
 
